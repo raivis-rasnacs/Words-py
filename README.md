@@ -12,7 +12,7 @@ Programma pieprasa ievadīt 2 atbilstošus vārdus. Algoritms caurskata abus vā
 ### Testpiemēri:
 |Ievaddati|Izvaddati|
 |---|---|
-|saule aula|var|
+|saule aula|nevar|
 |skola ola|var|
 |blūze lūza|nevar|
 |ploteris motelis|nevar|
